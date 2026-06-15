@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @omssss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-omssss/omssss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 
+I'm just small guy with tricks
++ I love protogens
